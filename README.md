@@ -75,7 +75,7 @@ Developed an IoT-based flood monitoring and early warning solution using sensors
 
 ## 📈 Internship Experience
 
-### Generative AI Intern
+### Web Development and Data Science Intern
 
 * Worked with AI and Machine Learning concepts
 * Applied Python for data analysis and automation
