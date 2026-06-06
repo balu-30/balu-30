@@ -77,16 +77,6 @@ IoT solution for Glacial Lake Outburst Flood monitoring and alerts.
 
 ---
 
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=balu-30&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=balu-30&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balu-30&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balasubramaniyam-t-73117b383)
@@ -94,7 +84,5 @@ IoT solution for Glacial Lake Outburst Flood monitoring and alerts.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:tbalasubramaniyam02@gmail.com)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ⭐ Building Projects • Learning Daily • Growing Continuously
