@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Balasubramaniyam
 
-### Computer Science Engineer (AI & ML) | Python Developer | Data Analyst | AI Enthusiast
+### Computer Science Engineer  | Python Developer | Data Analyst | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+Aspiring;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner;Generative+AI+Explorer" />
 
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Graduate specializing in AI & ML
+🎓 Recent Computer Science Engineering Graduate
 
-💼 Generative AI Intern
+💼 Web Development and Data Science Intern
 
 🌱 Currently learning:
 - Data Structures & Algorithms
@@ -40,6 +40,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Data Science
 
@@ -75,19 +79,19 @@ IoT solution for Glacial Lake Outburst Flood monitoring and alerts.
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=balu-30&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=balu-30&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balu-30&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balasubramaniyam-t-73117b383)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:tbalasubramaniyam02@gmail.com)
 
 ---
 
