@@ -1,59 +1,59 @@
-# Hi 👋, I'm Balasubramaniyam
+<div align="center">
 
-### Computer Science Engineer | Python Developer | Data Analyst | AI Enthusiast
+# Hi 👋 I'm Balasubramaniyam
 
-🎓 Recent Computer Science Engineering graduate
+### Computer Science Engineer (AI & ML) | Python Developer | Data Analyst | AI Enthusiast
 
-💡 Passionate about building software solutions, solving real-world problems using data, and exploring emerging AI technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+Aspiring;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner;Generative+AI+Explorer" />
 
-🚀 Currently seeking opportunities in:
-
-* Software Engineering
-* Python Development
-* Data Analytics
-* AI / Machine Learning
-* QA & Testing
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 B.E. in Computer Science Engineering
-* 💼 Web Development and Data Science Intern
-* 🐍 Strong foundation in Python Programming
-* 📊 Interested in Data Science and Analytics
-* 🤖 Enthusiastic about AI, ML, and Generative AI
-* 🌱 Continuously learning new technologies and industry best practices
+🎓 Computer Science Engineering Graduate specializing in AI & ML
+
+💼 Generative AI Intern
+
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Full Stack Development
+- Cloud Computing
+- AI Agents & MCP
+
+🎯 Looking for:
+- Software Engineer
+- Python Developer
+- Data Analyst
+- QA Engineer
+- AI/ML Engineer
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
 
-Python • SQL • Java (Basics) • C • C++ • HTML • CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Science & Machine Learning
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Pandas
-* NumPy
-* Machine Learning
-* Linear Regression
-* Multiple Linear Regression
-* K-Nearest Neighbors (KNN)
-* K-Means Clustering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Software Development
+### Data Science
 
-* Object-Oriented Programming
-* Problem Solving
-* Git & GitHub
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-### AI & Emerging Technologies
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-* Generative AI
-* Prompt Engineering
-* AI Applications
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -61,53 +61,36 @@ Python • SQL • Java (Basics) • C • C++ • HTML • CSS
 
 ### 🎯 Student Dropout Prediction System
 
-Machine learning-based system that predicts students at risk of dropping out using academic and behavioral factors.
+Machine Learning model to identify students at risk of dropping out.
 
 ### 💳 Financial Fraud Detection System
 
-AI-powered solution for identifying potentially fraudulent financial transactions.
+AI-based fraud detection system using predictive analytics.
 
-### 🌊 IoT-Based GLOF Early Warning System
+### 🌊 IoT Based GLOF Early Warning System
 
-Developed an IoT-based flood monitoring and early warning solution using sensors and real-time monitoring.
-
----
-
-## 📈 Internship Experience
-
-### Web Development and Data Science Intern
-
-* Worked with AI and Machine Learning concepts
-* Applied Python for data analysis and automation
-* Explored Generative AI tools and practical applications
-* Developed analytical and problem-solving skills through hands-on projects
+IoT solution for Glacial Lake Outburst Flood monitoring and alerts.
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub Statistics
 
-To begin my professional journey as a Software Engineer or Data Professional where I can apply my technical skills, contribute to impactful projects, and continuously grow as a technology professional.
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Advanced Python
-* Full Stack Development
-* Cloud Computing
-* AI Agents & MCP Servers
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: tbalasubramaniyam02@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-💼 LinkedIn: https://www.linkedin.com/in/balasubramaniyam-t-73117b383
-
-🌐 GitHub: https://github.com/balu-30
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
-### ⭐ "Learning, Building, and Growing Every Day."
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+⭐ Building Projects • Learning Daily • Growing Continuously
